@@ -6,11 +6,11 @@ This led me to question how to increase social, environmental and positive econo
 
 - 🔭 I am currently working on finding my flow to reshape my career in a new sector and location.
 - 🌟 In my free time I am tinkering on side projects in CNC machining, biodomes, aquaponics, biodiesel & mentoring.
-- 🌱 I’m currently learning more about all things SRE, DevOps, AWS and Security and all things open source.
+- 🌱 I’m currently learning more about SRE, DevOps, AWS and Security and all things open source.
 - 💬 Ask me about SRE, DevSecOps, entrepreneurship, economics, data, sustainability, career change or building things.
+- 🚀 My values are transparency,trust, authentic expression, beginner's mindset and curiosity, shared norms and equality.
 - 🤔 I’m looking for help with: generating social or environmental value through tech.
 - 📫 How to reach me: LinkedIn, Github.
-- 🚀 My values are transparency,trust, authentic expression, beginner's mindset and curiosity, shared norms and equality.
 - Mentor it forward: https://competent-curie-a96466.netlify.app/
 - Personal portfolio: https://vigilant-hopper-27c595.netlify.app/
 
