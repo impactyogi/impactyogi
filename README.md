@@ -11,10 +11,10 @@ This led me to question how to increase social, environmental and positive econo
 - 🚀 My values are transparency,trust, authentic expression, beginner's mindset and curiosity, shared norms and equality.
 - 🤔 I’m looking for help with: generating social or environmental value through tech.
 - 📫 How to reach me: LinkedIn, Github.
-- Mentor it forward: https://competent-curie-a96466.netlify.app/
-- Personal portfolio: https://vigilant-hopper-27c595.netlify.app/
 
 <!-- Get in touch
-Urtisan : https://happy-colden-35ad1a.netlify.app/
-Mecano: https://infallible-dubinsky-c5d6c9.netlify.app/
-Random inspiration: https://blissful-tesla-ed4682.netlify.app/ -->
+- Mentor it forward: https://competent-curie-a96466.netlify.app/
+- Personal portfolio: https://vigilant-hopper-27c595.netlify.app/
+- Urtisan : https://happy-colden-35ad1a.netlify.app/
+- Mecano: https://infallible-dubinsky-c5d6c9.netlify.app/
+- Random inspiration: https://blissful-tesla-ed4682.netlify.app/ -->
