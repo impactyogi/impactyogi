@@ -1,6 +1,4 @@
-Hi, I'm Hannah, (she/her), Site Reliability Engineer at the Economist. I have lived and worked in 6 countries,(UK, SE, FR, IT, ES, GT) and though what initially led me there was learning the languages, cultures and understanding the people. In the world of work I learnt a lot about data, strategy, product, sales, marketing, entrepreneurship and developing economies, finally finding my driving passion in the intersection between business and social impact within social enterprise.
-
-This led me to question how to increase social, environmental and positive economic impact and I became interested in tech for its capacity to create scaleable solutions to real world problems which can cross physical boundries and continents and require relitively low start-up capital in comparison to traditional bricks and mortar businesses.
+Hi, I'm Hannah, (she/her), Site Reliability Engineer at the Economist.Led by a love for linguistics, culture and diversity I have lived and worked in 6 countries,(UK, SE, FR, IT, ES, GT) . Along the way I got into strategy, entrepreneurship, data, product, sales, marketing,finding my driving passion in the intersection between business and social impact within social enterprise. I became interested in tech for its capacity to create scaleable solutions to real world problems which cross physical boundries and require relitively low start-up capital in comparison to traditional bricks and mortar businesses. 
 
 ### Let's build together!
 
