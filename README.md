@@ -8,13 +8,6 @@ Hi, I'm Hannah, (she/her), Site Reliability Engineer at the Economist. Led by a 
 - 🤔 I’m looking for help with: generating social or environmental value through tech.
 - 📫 How to reach me: LinkedIn, Github.
 
-<!-- Get in touch
-- Mentor it forward: https://competent-curie-a96466.netlify.app/
-- Personal portfolio: https://vigilant-hopper-27c595.netlify.app/
-- Urtisan : https://happy-colden-35ad1a.netlify.app/
-- Mecano: https://infallible-dubinsky-c5d6c9.netlify.app/
-- Random inspiration: https://blissful-tesla-ed4682.netlify.app/ -->
-
 
 <a href="https://github.com/impactyogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impactyogi&theme=light&hide_langs_below=1" />
