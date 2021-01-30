@@ -13,8 +13,5 @@ Hi, I'm Hannah, (she/her), Site Reliability Engineer at the Economist. Led by a 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impactyogi&theme=light&hide_langs_below=1" />
 </a>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
- </p>
- 
+
  
