@@ -1,15 +1,20 @@
-Hi, I'm Hannah, (she/her), Site Reliability Engineer at the Economist. Led by a love for linguistics, culture and diversity I have lived and worked in 6 countries,(UK, SE, FR, IT, ES, GT). Along the way I got into strategy, entrepreneurship, data, product, business development and marketing, finding my driving passion in the intersection between business and social impact within social enterprise. I became interested in tech for its capacity to create scalable solutions to real world problems which cross physical boundaries and require relatively low start-up capital in comparison to traditional bricks and mortar businesses.
+### Hi, I'm Hannah (she/her) 👋
 
-### Let's build together!
+Senior Staff Engineer in Commerce and Platform at **The Economist**, and co-tech lead of our agentic AI initiative.
 
-- 🔭 I am currently working on finding my flow to reshape my career in a new sector and location.
-- 🌱 In my free time I am tinkering on side projects in CNC, biodomes, aquaponics, biodiesel, sustainbility & open source. 
-- 💬 Ask me about SRE, DevSecOps, entrepreneurship, economics, data, sustainability, career change or building things.
-- 🤔 I’m looking for help with: generating social or environmental value through tech.
-- 📫 How to reach me: LinkedIn, Github.
+I build the systems other people build inside: slot-in platform modules for ~55 engineering teams, a developer portal, and our internal **AI Hub**, which I had the idea for and built — it now serves ~2,000 staff, with every app on it gated by automated security scanning.
 
- <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
- </p>
- 
- 
+Led by a love of linguistics, culture and diversity, I've lived and worked in six countries 🇬🇧 🇸🇪 🇫🇷 🇮🇹 🇪🇸 🇬🇹. Along the way I picked up strategy, entrepreneurship, data, product, business development and marketing, and found my driving interest in the intersection of business and social impact.
+
+In tech since 2011, starting with data and product at a vertical search engine in Barcelona — 250 sites, 63 countries, 24 languages — where I rolled out real-time bidding. Between that and engineering here, four years in Guatemala running the social enterprise arm of an education organisation: I took a business that hadn't turned a profit in four years into profit and launched three more, funding schooling and work placements for ~500 children and reaching around 4,000 people. I co-founded [Urtisan](https://urtisan.com), a design and manufacturing company, there too.
+
+I got into tech for its capacity to build scalable solutions to real problems — ones that cross physical boundaries and need relatively little start-up capital next to bricks and mortar. What interests me now is whether those systems can be made safe as they become autonomous.
+
+- 🔭 **Working on:** AI safety at the deployment layer — prompt injection, agent monitoring, evaluation harnesses, and what makes the safe path the default path for everyone building on your platform
+- ✍️ **Writing at:** [Computational Contemplation](https://substack.com/@computationalcontemplation) — learning and building in public
+- 🌱 **Tinkering with:** CNC, biodomes, aquaponics, biodiesel, sustainability and open source
+- 💬 **Ask me about:** SRE, DevSecOps, platform engineering, agentic AI in production, entrepreneurship, economics, data, or sustainability
+- 🤝 **Interested in:** making agentic systems safer where they're actually deployed, and multilingual safety evaluation
+- 📫 **Reach me:** [hkmurphy.com](https://hkmurphy.com) · [LinkedIn](https://www.linkedin.com/in/hannahmurphybio/)
+
+Let's build together.
